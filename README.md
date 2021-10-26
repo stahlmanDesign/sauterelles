@@ -1,14 +1,18 @@
-# README
+# Sauterelles
 
+<p>
 <img src="./sauterelles.gif"/>
 <figcaption>
-Animated gif of the final game  
+  <em>Animated gif of the final game</em>
 </figcaption>
+</p>
 
+<p>
 <img src="./sauterelles.png"/>
 <figcaption>
-Screen capture
+  <em>Screen capture</em>
 </figcaption>
+</p>
 
 Sauterelles is a HTML5 game made in the context of the student protests in Montreal in 2012 and 2015. It requires adding the impact/ and weltmeister/ folders to src/lib/. These folders are available when you purchase ImpactJS. It also uses the impact-node server instead of Impact's built-in PHP solution for the Weltmeister editor and for baking.
 
