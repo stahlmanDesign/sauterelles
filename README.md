@@ -2,7 +2,7 @@
 
 <img src="./sauterelles.gif"/>
 <figcaption>
-Animated gif of the final game entry.
+Animated gif of the final game  
 </figcaption>
 
 <img src="./sauterelles.png"/>
